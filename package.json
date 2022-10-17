@@ -1,0 +1,19 @@
+{
+  "name": "get-wsl-address",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-wsl-address.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webaverse/get-wsl-address.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webaverse/get-wsl-address/issues"
+  },
+  "homepage": "https://github.com/webaverse/get-wsl-address#readme"
+}
